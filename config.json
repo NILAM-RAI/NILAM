@@ -35,22 +35,22 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"
+    "61565513061548"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071880593545"
+      "61565513061548"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "/",
+  "nickNameBot": "Queen",
+  "prefix": "√",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "aminul sordar",
+  "authorName": "nilam rai",
   "facebook2": "https://www.facebook.com/100071880593545",
   "facebook": "https://www.facebook.com/100071880593545",
   "email": "aminulsordar04@gmail.com",
