@@ -38,9 +38,9 @@ module.exports = {
         // The user is not in the chat, add them back
         const addUser = await api.addUserToGroup(userId, event.threadID);
         if (addUser) {
-          console.log(`My Lord,  ${userId} was added back to the chat 💗`);
+          console.log(`𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈 𝐊𝐄 𝐏𝐄𝐑𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐊𝐄 𝐁𝐈𝐍𝐀 𝐓𝐔𝐌,  ${userId} 𝐁𝐇𝐀𝐆 𝐊𝐄 𝐍𝐀𝐇𝐈 𝐉𝐀𝐀 𝐒𝐀𝐊𝐓𝐄 𝐋𝐎 𝐏𝐇𝐈𝐑 𝐀𝐃𝐃 𝐊𝐀𝐑 𝐃𝐈 𝐌𝐀𝐈 😂🤣`);
         } else {
-          console.log(`Failed to add user ${userId} back to the chat.`);
+          console.log(`𝐒𝐎𝐑𝐑𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈 𝐌𝐀𝐈 𝐈𝐒𝐊𝐎 𝐀𝐃𝐃 𝐍𝐀𝐇𝐈 𝐊𝐑 𝐏𝐀𝐘𝐈 🥺🥺 ${userId} 𝐒𝐎𝐑𝐑𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈 𝐌𝐀𝐈 𝐈𝐒𝐊𝐎 𝐀𝐃𝐃 𝐍𝐀𝐇𝐈 𝐊𝐑 𝐏𝐀𝐘𝐈....🥺🥺`);
         }
       }
     }
