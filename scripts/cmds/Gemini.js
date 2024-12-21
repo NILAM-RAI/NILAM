@@ -2,7 +2,7 @@ const axios = require("axios");
 
 module.exports = {
 	config: {
-		name: "Aminul",
+		name: "Nilam",
 		version: "1.0",
 		author: "Dipto",
 		description:"gemeini ai",
@@ -66,7 +66,7 @@ else if(!prompt) {
     else {
   try {
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`;
-    const prompt1 = prompt+' Give answer in Bangla';
+    const prompt1 = prompt+' Give answer in Hindi';
   const data = {
     'contents': [
       {
