@@ -49,7 +49,7 @@ module.exports = {
 		en: {
 			antiChangeAvatarOn: "𝐓𝐔𝐑𝐍 𝐎𝐍 𝐂𝐇𝐀𝐍𝐆𝐄 𝐀𝐕𝐓𝐀𝐑",
 			antiChangeAvatarOff: "𝐓𝐔𝐑𝐍 𝐎𝐅𝐅 𝐂𝐇𝐀𝐍𝐆𝐄 𝐀𝐕𝐓𝐀𝐑",
-			missingAvt: "𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐏𝐄𝐑𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐅𝐈𝐑𝐒𝐓 𝐌𝐘 𝐀𝐃𝐌𝐈𝐍 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈",
+			missingAvt: "𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐏𝐄𝐑𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐅𝐈𝐑𝐒𝐓 𝐌𝐘 𝐀𝐃𝐌𝐈𝐍 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑",
 			antiChangeNameOn: "𝐓𝐔𝐑𝐍 𝐎𝐍 𝐂𝐇𝐀𝐍𝐆𝐄 𝐍𝐀𝐌𝐄",
 			antiChangeNameOff: "𝐓𝐔𝐑𝐍 𝐎𝐅𝐅 𝐂𝐇𝐀𝐍𝐆𝐄 𝐍𝐀𝐌𝐄",
 			antiChangeNicknameOn: "𝐓𝐔𝐑𝐍 𝐎𝐍 𝐂𝐇𝐀𝐍𝐆𝐄 𝐍𝐈𝐂𝐊𝐍𝐀𝐌𝐄",
@@ -58,12 +58,12 @@ module.exports = {
 			antiChangeThemeOff: "𝐓𝐔𝐑𝐍 𝐎𝐅𝐅 𝐂𝐇𝐀𝐍𝐆𝐄 𝐓𝐇𝐄𝐌𝐄",
 			antiChangeEmojiOn: "𝐓𝐔𝐑𝐍 𝐎𝐍 𝐂𝐇𝐀𝐍𝐆𝐄 𝐄𝐌𝐎𝐉𝐈",
 			antiChangeEmojiOff: "𝐓𝐔𝐑𝐍 𝐎𝐅𝐅 𝐂𝐇𝐀𝐍𝐆𝐄 𝐄𝐌𝐎𝐉𝐈",
-			antiChangeAvatarAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈",
-			antiChangeAvatarAlreadyOnButMissingAvt: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈",
-			antiChangeNameAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈",
-			antiChangeNicknameAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈",
-			antiChangeThemeAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈",
-			antiChangeEmojiAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈"
+			antiChangeAvatarAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑",
+			antiChangeAvatarAlreadyOnButMissingAvt: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑",
+			antiChangeNameAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑",
+			antiChangeNicknameAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑",
+			antiChangeThemeAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑",
+			antiChangeEmojiAlreadyOn: "𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐄𝐇𝐀 𝐓𝐇𝐀𝐊𝐔𝐑"
 		}
 	},
 
